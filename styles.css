@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+.root{
+    background-image: linear-gradient(rgb(251, 168, 182),#fff); 
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.root .form-choice{
+    background-image: url(https://animesher.com/orig/1/120/1200/12000/animesher.com_blossom-tree-anime-gif-gifs-1200078.gif);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+}
+
+a{
+    text-decoration: none;
+    display: block;
+    border-radius: 10px;
+    margin: 40px;
+    padding: 15px;
+    font-size: 25px;
+    color: #fff;
+    background-color: rgb(255, 112, 205);
+    text-align: center;
+}
+
+a:last-child{
+    margin-top: 0;
+}
+
+a:hover , 
+a:active{
+    background-color: rgb(133, 133, 247);
+}
+/*====================================*/
+.row{
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.flashcard {
+    /* width: 25%; */
+    height: 200px;
+    border: 1px solid black;
+    /* margin: 10px; */
+    padding: 70px;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+    background-color: pink;
+  }
+  .back{
+      display: none;
+      color: azure;
+  }
+  .flashcard:hover{
+      background-color: palevioletred;
+  }
