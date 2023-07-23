@@ -30,5 +30,7 @@ export default [
     {tv:"会見",mean:"かいけん (= với kaigi)"},
     {tv:"国会",mean:"こっかい"},
     {tv:"会います",mean:"あいます"},
-
+    {tv:"飲食",mean:"いんしょく (an uong)"},
+    {tv:"見物",mean:"けんぶつ (Ngắm cảnh)"},
+    {tv:"男女",mean:"だんじょ(Nam nu)"},
 ]
