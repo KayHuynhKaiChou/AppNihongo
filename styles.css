@@ -20,8 +20,12 @@ body{
 .root .form-choice{
     background-image: url(https://animesher.com/orig/1/120/1200/12000/animesher.com_blossom-tree-anime-gif-gifs-1200078.gif);
     background-repeat: no-repeat;
+    background-size: cover; /* ảnh phủ kín div, giữ tỉ lệ */
+    background-position: center; /* căn giữa ảnh */
     display: flex;
     flex-direction: column;
+    gap: 30px;
+    padding: 30px;
     border-radius: 15px;
 }
 
@@ -29,7 +33,6 @@ a{
     text-decoration: none;
     display: block;
     border-radius: 10px;
-    margin: 40px;
     padding: 15px;
     font-size: 25px;
     color: #fff;
@@ -55,12 +58,20 @@ a:active{
     /* width: 25%; */
     height: 200px;
     border: 1px solid black;
-    /* margin: 10px; */
-    padding: 70px;
+    /* margin: 10px; */; 
     font-size: 30px;
     text-align: center;
     cursor: pointer;
     background-color: pink;
+    display: flex;
+  }
+  .front, .back {
+    margin: auto;
+    display: -webkit-box;            /* cần cho line-clamp */
+    -webkit-box-orient: vertical;    /* hướng dọc */
+    -webkit-line-clamp: 3;           /* số dòng tối đa */
+    overflow: hidden;                /* ẩn phần dư */
+    text-overflow: ellipsis; 
   }
   .back{
       display: none;
