@@ -29,5 +29,12 @@ export default [
     {tv:"pollute",mean:"gây ô nhiễm , pollution (n)"},
     {tv:"blame (n) (v) - blame s.o for N/V-ing",mean:"đổ lỗi"},
     {tv:"election",mean:"cuộc bầu cử"},
-    {tv:"ひとがすくない",mean:"vắng,ít người"}
+    {tv:"find out ",mean:"tìm ra"},
+    {tv:"Make room on your desk.",mean:"Dọn chỗ (để có ko gian trống) trên bàn của bạn"},
+    {tv:"Nhường chỗ cho ai ",mean:"make room for s.o"},
+    {tv:"lễ cưới, lễ khai mạc, lễ tốt nghiệp ",mean:"a wedding / the opening / the graduation ceremony"},
+    {tv:"from row seats",mean:"hàng ghế đầu"},
+    {tv:"tenant",mean:"người thuê nhà/ đất"},
+    {tv:"refreshments",mean:"đồ ăn nhẹ và nước uống"},
+    
 ]
