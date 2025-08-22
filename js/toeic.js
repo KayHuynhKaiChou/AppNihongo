@@ -36,5 +36,17 @@ export default [
     {tv:"from row seats",mean:"hàng ghế đầu"},
     {tv:"tenant",mean:"người thuê nhà/ đất"},
     {tv:"refreshments",mean:"đồ ăn nhẹ và nước uống"},
-    
+    {tv:"freight, cargo, merchandise",mean:"hàng hóa"},
+    {tv:"get in touch",mean:" liên lạc"},
+    {tv:"stay in touch",mean:"giữ liên lạc"},
+    {tv:"rise, go up",mean:"tăng = increase"},
+    {tv:"borrow, lend",mean:"mượn từ ai (borrow + N), cho ai mượn(lend + s.o)"},
+    {tv:"council (n)",mean:"hội đồng"},
+    {tv:"counsel (n)", mean:"advice, lời tư vấn"},
+    {tv:"acquaintance (n)", mean:"người quen"},
+    {tv:"similar (adj) + to N", mean:"giống nhau, tương tự = alike"},
+    {tv:"comprehensible /ˌkɑːm.prəˈhen.sə.bəl/", mean:"dễ hiểu = understandable"},
+    {tv:"comprehensive /ˌkɑːm.prəˈhen.sɪv/", mean:"toàn diện, đầy đủ, bao quát (extensive)"},
+    {tv:"bother", mean: "làm phiền, quấy rầy = disturb | bận tâm, lo lắng"},
+    {tv:"interrupt (v)", mean: "làm gián đoạn, xen ngang, ngắt lời"}
 ]
