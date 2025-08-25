@@ -71,5 +71,10 @@ export default [
     {tv:"move in", mean:"chuyển đến, dọn vào ở (nơi ở mới)"},
     {tv:"crew(n)", mean:"đội ngũ, e-kip(nếu là film ảnh)"},
     {tv:"That suits us, our flight won't get in until early evening anyway.",mean:"Điều đó cũng hợp với chúng tôi, dù sao thì chuyến bay của chúng tôi cũng sẽ không hạ cánh cho đến đầu buổi tối"},
-    {tv:"Sẽ có bao nhiêu người trong số các bạn?",mean:"How many of you will there be?"}
+    {tv:"Sẽ có bao nhiêu người trong số các bạn?",mean:"How many of you will there be?"},
+    {tv:"Oh, only a couple of weeks, we'd like to stay longer but we'll have to get back to work.",mean:"Ồ, chỉ khoảng hai tuần thôi, bọn mình cũng muốn ở lại lâu hơn nhưng sẽ phải quay lại làm việc."},
+    {tv:"kỳ nghỉ kéo dài",mean:"prolonged vacation"},
+    {tv:"we won't need any of that stuff",mean:"bọn tôi sẽ không cần mấy thứ đó"},
+    {tv:"get away from all that kind of thing.",mean:"tránh xa những thứ kiểu như vậy"},
+    {tv:"accommodate",mean:"adapt | cung cấp chỗ ở"},
 ]
