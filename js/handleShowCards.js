@@ -2,6 +2,7 @@
 import listHiragana from './hiragana.js'
 import listKanji from './kanji.js'
 import toeic from './toeic.js';
+import toeicIIG from './toeicIIG.js';
 
 let listTuVung = []
 let typeVolcabulary = [...location.href.split('/')].pop();
@@ -15,6 +16,9 @@ switch (typeVolcabulary) {
         break;
     case 'toeic.html':
         listTuVung = toeic;
+        break;
+    case 'toeicIIG.html':
+        listTuVung = toeicIIG;
         break;
     default:
         break;
