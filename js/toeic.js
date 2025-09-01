@@ -80,7 +80,7 @@ export default [
     {tv:"Trong vài năm qua",mean:"over the past few years"},
     {tv:"xuất phát/ phát sinh từ",mean:"arise from"},
     {tv:"desperation",mean:"sự tuyệt vọng, liều lĩnh"},
-    {tv:"secure(v)",mean:"đảm bảo có được"},
+    {tv:"secure(adj, v)",mean:"adj: safe, v: giành được | khóa (cửa)"},
     {tv:"rescue",mean:"giải cứu, giải thoát"},
     {tv:"alleviate their economic struggle",mean:"giảm bớt khó khăn kte"},
     {tv:"be involved in",mean:"có liên quan đến/ tham gia vào"},
@@ -117,7 +117,6 @@ export default [
     {tv:"comply with",mean:"tuân thủ, tuân theo = abide by "},
     {tv:"warranty",mean:"giấy/sự bảo hành"},
     {tv:"file a complaint",mean:"nộp đơn khiếu nại"},
-    {tv:"cigarette",mean:"cigarette"},
     {tv:"representative",mean:"ng đại diện"},
     {tv:"exclusive (adj)",mean:"độc quyền"},
     {tv:"receipt",mean:"hóa đơn = bill = invoice"},
@@ -127,7 +126,7 @@ export default [
     {tv:"waste disposal",mean:"việc xử lý rác thải"},
     {tv:"convention (n)",mean:"= conference (n) : hội nghị"},
     {tv:"envelope",mean:"phong bì"},
-    {tv:"corner",mean:"ngã tư, góc phố"},
+    {tv:"corner",mean:"góc phố, góc đường"},
     {tv:"phát những tờ rơi này", mean:"hand out these flyers"},
     {tv:"eye-catching (adj)",mean:"bắt mắt, nổi bật"}
 ]
