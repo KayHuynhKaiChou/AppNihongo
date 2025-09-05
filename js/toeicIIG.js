@@ -130,9 +130,8 @@ export default [
     {tv:"pants (n)", mean:"quần dài"},
     {tv:"wave (v) hand",mean:"vẫy tay"},
     {tv:"documentary(n,adj)",mean:"(n)phim tài liệu | (adj)thuộc về tài liệu"},
-    {tv:"closet (n)",mean:"tủ quần áo"},
+    {tv:"closet /ˈklɑː.zət/(n)",mean:"tủ quần áo"},
     {tv:"coat (n)",mean:"áo khoát"},
     {tv:"domestic flight (n)",mean:"chuyến bay nội địa"},
     {tv:"undergo intensive training", mean:"trải qua khóa đào tạo chuyên sâu"},
-    // {tv:"eye-catching (adj)",mean:"bắt mắt, nổi bật"}
 ]
