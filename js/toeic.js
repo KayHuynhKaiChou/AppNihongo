@@ -108,7 +108,7 @@ export default [
     {tv:"appliance",mean:"đồ dùng, thiết bị = device (đặc biệt là điện hoặc gia dụng)"},
     {tv:"convince",mean:"persuade = thuyết phục"},
     {tv:"productive (adj)",mean:"năng suất => productivity (n)"},
-    {tv:"revenue (n)",mean:"doanh thu (của 1 tổ chức , công ty) = income (này là thu nhập của 1 cá nhân)"},
+    {tv:"revenue /ˈrev.ə.nuː/ (n)",mean:"doanh thu (của 1 tổ chức , công ty) = income (này là thu nhập của 1 cá nhân)"},
     {tv:"chain retailer",mean:"chuỗi cty/store bán lẻ"},
     {tv:"flyer",mean:"tờ rơi, tờ quảng cáo"},
     {tv:"recall",mean:"nhớ, hồi tưởng lại | thu hồi (hàng hóa)"},
