@@ -19,7 +19,7 @@ switch (typeVolcabulary) {
         listTuVung = toeic;
         break;
     case 'toeicv1.html':
-        listTuVung = toeic;
+        listTuVung = toeicv1;
         break;
     case 'toeicIIG.html':
         listTuVung = toeicIIG;
