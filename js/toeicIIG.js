@@ -100,6 +100,7 @@ export default [
     {tv:"S + had better not + V", mean:"S tốt hơn hết là ko nên làm gì"},
     {tv:"interpret (v)",mean: "explain, làm sáng tỏ"},
     {tv:"delegate (v) + N + to s.o",mean:"giao phó, giao, ủy thác việc gì đó tới ai"},
+    {tv:"delegates (n)",mean:"những người đại biểu"},
     {tv:"firm overseas",mean:"cty (vừa và nhỏ) ở nước ngoài"},
     {tv:"evaluate (v)",mean:"assess"},
     {tv:"leadership",mean:"khả năng/sự lãnh đạo"},
