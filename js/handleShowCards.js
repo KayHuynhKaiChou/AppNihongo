@@ -3,6 +3,7 @@ import listHiragana from './hiragana.js'
 import listKanji from './kanji.js'
 import toeic from './toeic.js';
 import toeicv1 from './toeicv1.js';
+import toeicv2 from './toeicv2.js';
 import toeicIIG from './toeicIIG.js';
 
 let listTuVung = []
@@ -20,6 +21,9 @@ switch (typeVolcabulary) {
         break;
     case 'toeicv1.html':
         listTuVung = toeicv1;
+        break;
+    case 'toeicv2.html':
+        listTuVung = toeicv2;
         break;
     case 'toeicIIG.html':
         listTuVung = toeicIIG;

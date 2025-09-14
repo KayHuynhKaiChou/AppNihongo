@@ -106,7 +106,7 @@ export default [
     {tv:"leadership",mean:"khả năng/sự lãnh đạo"},
     {tv:"cut labor costs",mean:"cắt giảm chi phí lao động/ chi phí nhân công"},
     {tv:"health insurance",mean:"bảo hiểm y tế"},
-    {tv:"courier (n)",mean:"người chuyển phát nhanh, giao hàng"},
+    {tv:"courier /ku.ri.ờ/(n)",mean:"người chuyển phát nhanh, giao hàng"},
     {tv:"carrier (n)",mean:"hãng/công ty vận chuyển"},
     {tv:"broken part",mean:"bộ phận, linh kiện bị hỏng"},
     {tv:"flight",mean:"chuyến bay"},
@@ -134,5 +134,5 @@ export default [
     {tv:"closet /ˈklɑː.zət/(n)",mean:"tủ quần áo"},
     {tv:"coat (n)",mean:"áo khoát"},
     {tv:"domestic flight (n)",mean:"chuyến bay nội địa"},
-    {tv:"undergo intensive training", mean:"trải qua khóa đào tạo chuyên sâu"},
+    {tv:"undergo intensive training", mean:"trải qua khóa đào tạo chuyên sâu/ cường độ cao"},
 ]
