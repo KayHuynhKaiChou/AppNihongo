@@ -92,7 +92,7 @@ export default [
     {tv:"mislead examinees",mean:"đánh lạc hướng thí sinh, làm cho tsinh hiểu sai, hiểu nhầm"},
     {tv:"competent/ˈkɑːm.pə.tənt/ (adj) - competence/ˈkɑːm.pə.t̬əns/ (n) - competency (n)",mean:"có năng lực, khả năng - năng lực (chung) - năng lực (cụ thể, chuyên môn)"},
     {tv:"compete (v) - competition/ˌkɑːm.pəˈtɪʃ.ən/(n)",mean:"cạnh tranh, thi đấu - sự cạnh tranh / cuộc thi"},
-    {tv:"competitor (n) - conpetitive/kəmˈpet̬.ə.t̬ɪv/(adj)",mean:"đối thủ - mang tính cạnh tranh"},
+    {tv:"competitor (n) - competitive/kəmˈpet̬.ə.t̬ɪv/(adj)",mean:"đối thủ - mang tính cạnh tranh"},
     {tv:"belongings",mean:"đồ dùng cá nhân"},
     {tv:"holiday rush",mean:"thời kỳ cao điểm / sự bận rộn vào dịp lễ"},
     {tv:"contingent worker (n)",mean:"nhân viên thời vụ, lao động ngắn hạn"},
