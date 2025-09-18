@@ -2,7 +2,7 @@ export default [
     {tv:"aid (n,v)",mean:"hỗ trợ , giúp đỡ = support, help"},
     {tv:"simple manner(n)",mean:"cách đơn giản"},
     {tv:"wise (adj)",mean:"khôn ngoan, sáng suốt"},
-    {tv:"subcontractor (n)",mean:"nhà thầu"},
+    {tv:"contractor (n)",mean:"nhà thầu =>subcontractor (n): nhà thầu phụ"},
     {tv:"Now that ..., ...",mean:"Vì bây giờ ( gần = because) ..., (nên) ..."},
     {tv:"regarding",mean:"về việc gì đó..., liên quan đến..."},
     {tv:"indicate an interest",mean:"cho thấy sự quan tâm"},
