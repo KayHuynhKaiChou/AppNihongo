@@ -137,5 +137,15 @@ export default [
     {tv:"professor /prəˈfes.ɚ/(n)",mean:"giáo sư"},
     {tv:"imply /ɪmˈplaɪ/(v)", mean:"ám chỉ"},
     {tv:"implicit /ɪmˈplɪs.ɪt/(adj) >< explicit (adj)",mean:"ẩn ý ,ko rõ ràng >< minh bạch, rõ ràng "},
-    {tv:"business executives",mean:"các giám đốc điều hành"}
+    {tv:"business executives",mean:"các giám đốc điều hành"},
+    {tv:"severe /sờ.via.ờ/ (adj)",mean:"rất xấu, rất khốc liệt, dữ dội"},
+    {tv:"depart (v)",mean:"khởi hành"},
+    {tv:"opponent (n)",mean:"= competitor, rival (đối thủ)"},
+    {tv:"adversary(n)",mean:"enemy = kẻ thù (mức độ nặng hơn từ 'đối thủ')"},
+    {tv:"scary(adj)",mean:"đáng sợ = frightening (adj) /phờ,rai.ə.ning/"},
+    {tv:"skyscraper (n)",mean:"nhà chọc trời (là tòa nhà gồm mấy chục tầng)"},
+    {tv:"grasp (v)",mean:"nắm (tay, hay cái gì đó ...) | nắm bắt , hiểu thấu (1 điều gì đó)"},
+    {tv:"striking (adj)",mean:"nổi bật, impressive"},
+    {tv:"reinforce (v)",mean:"strengthen, enhance"},
+    {tv:"stay tuned",mean:"hãy tiếp tục theo dõi, chú ý"},
 ]

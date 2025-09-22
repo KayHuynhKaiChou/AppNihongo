@@ -128,5 +128,17 @@ export default [
     {tv:"envelope",mean:"phong bì"},
     {tv:"corner",mean:"góc phố, góc đường"},
     {tv:"phát những tờ rơi này", mean:"hand out these flyers"},
-    {tv:"eye-catching (adj)",mean:"bắt mắt, nổi bật"}
+    {tv:"eye-catching (adj)",mean:"bắt mắt, nổi bật"},
+    {tv:"tamper with (v) sth",mean:"can thiệp, thay đổi trái phép"},
+    {tv:"look over (v)",mean:"quickly examine sth"},
+    {tv:"accessories (n)",mean:"phụ kiện (đi kèm với main product)"},
+    {tv:"fitting room (n)",mean:"phòng thử đồ"},
+    {tv:"regulate (v)",mean:"điều chỉnh (máy móc, device)"},
+    {tv:"the soup is lightly flavored with garlic and herbs",mean:"soup đã đc nêm nếm/ có gia vị nhẹ với tỏi và thảo mộc"},
+    {tv:"tight (adj)",mean:"eo hẹp, hạn hẹp (tiền, ...) | chật (giày, quần áo)"},
+    {tv:"redeem",mean:"chuộc , mua lại | đổi lấy (voucher, ...)"},
+    {tv:"inquiry (n) => inquire(v)",mean:"question | investigation"},
+    {tv:"fire drills (n)",mean:"việc diễn tập phòng cháy chữa cháy"},
+    {tv:"hazardous (adj)",mean:"= dangerous (dùng cho materials, activities, ...)"},
+    {tv:"decline (v)",mean:"= refuse = deny = turn down | decrease"}
 ]
