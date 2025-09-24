@@ -4,6 +4,7 @@ import listKanji from './kanji.js'
 import toeic from './toeic.js';
 import toeicv1 from './toeicv1.js';
 import toeicv2 from './toeicv2.js';
+import toeicv3 from './toeicv3.js';
 import toeicIIG from './toeicIIG.js';
 
 let listTuVung = []
@@ -24,6 +25,9 @@ switch (typeVolcabulary) {
         break;
     case 'toeicv2.html':
         listTuVung = toeicv2;
+        break;
+    case 'toeicv3.html':
+        listTuVung = toeicv3;
         break;
     case 'toeicIIG.html':
         listTuVung = toeicIIG;

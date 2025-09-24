@@ -1,7 +1,7 @@
 export default [
     {tv:"interfere (v)",mean:"can thiệp, xen vào"},
     {tv:"loan (n)",mean:"khoản vay / các khoản vay"},
-    {tv:"merit (v)",mean:"xứng đáng = deserve (v)"},
+    {tv:"merit (v,n)",mean:"xứng đáng = deserve (v) | (n): điểm mạnh, giá trị"},
     {tv:"recognition (n)",mean:"sự công nhận"},
     {tv:"necklace (n) /ˈnek.ləs/",mean:"vòng cổ, dây chuyền"},
     {tv:"the needy = the poor",mean:"những người nghèo"},
@@ -140,5 +140,12 @@ export default [
     {tv:"inquiry (n) => inquire(v)",mean:"question | investigation"},
     {tv:"fire drills (n)",mean:"việc diễn tập phòng cháy chữa cháy"},
     {tv:"hazardous (adj)",mean:"= dangerous (dùng cho materials, activities, ...)"},
-    {tv:"decline (v)",mean:"= refuse = deny = turn down | decrease"}
+    {tv:"decline (v)",mean:"= refuse = deny = turn down | decrease"},
+    {tv:"office supplies (n)",mean:"vật dụng, đồ dùng văn phòng phẩm (such as paper, pen, ...)"},
+    {tv:"urgent (adj) => urge(v)",mean:"khẩn cấp, gấp rút, cấp bách => (v): thúc dục"},
+    {tv:"get a ride (v)",mean:"tìm 1 phương tiện (để đến 1 địa điểm nào đó)"},
+    {tv:"suspend (v)",mean:"stop, hoãn lại | đình chỉ"},
+    {tv:"requisition (n)",mean:"yêu cầu"},
+    {tv:"anticipate (v)",mean:"dự tính, lường trước"},
+    {tv:"bounce back from a slump",mean:"phục hồi lại từ suy thoái"}
 ]
