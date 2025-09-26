@@ -129,7 +129,7 @@ export default [
     {tv:"objective (n)",mean:"target"},
     {tv:"malfunction (n,v)",mean:"sự trục trặc, ko work đúng"},
     {tv:"air conditioner (n)",mean:"máy điều hòa, máy lạnh"},
-    {tv:"tobe on air",mean:"đang được phát/lên sóng (trên TV, livestream, ...)"},
+    {tv:"tobe on air",mean:"đang được phát/lên sóng (trên TV, livestream, ...) = tobe broadcast"},
     {tv:"get a hold of s.o(n)",mean:"contact with : liên lạc với"},
     {tv:"Please hold the line",mean:"vui lòng giữ máy (khi nghe đt)"},
     {tv:"coffee maker (n)", mean:"máy pha cafe"},
