@@ -146,6 +146,6 @@ export default [
     {tv:"get a ride (v)",mean:"tìm 1 phương tiện (để đến 1 địa điểm nào đó)"},
     {tv:"suspend (v)",mean:"= stop = cease, hoãn lại | đình chỉ"},
     {tv:"requisition (n)",mean:"yêu cầu"},
-    {tv:"anticipate (v)",mean:"dự tính, lường trước"},
+    {tv:"anticipate (v)",mean:"dự đoán = predict | lường trước"},
     {tv:"bounce back from a slump",mean:"phục hồi lại từ suy thoái"}
 ]

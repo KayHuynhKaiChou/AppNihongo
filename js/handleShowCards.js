@@ -5,6 +5,7 @@ import toeic from './toeic.js';
 import toeicv1 from './toeicv1.js';
 import toeicv2 from './toeicv2.js';
 import toeicv3 from './toeicv3.js';
+import toeicv4 from './toeicv4.js';
 import toeicIIG from './toeicIIG.js';
 
 let listTuVung = []
@@ -28,6 +29,9 @@ switch (typeVolcabulary) {
         break;
     case 'toeicv3.html':
         listTuVung = toeicv3;
+        break;
+    case 'toeicv4.html':
+        listTuVung = toeicv4;
         break;
     case 'toeicIIG.html':
         listTuVung = toeicIIG;

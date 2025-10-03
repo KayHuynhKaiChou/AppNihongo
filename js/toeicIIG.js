@@ -135,7 +135,7 @@ export default [
     {tv:"coat (n)",mean:"áo khoát"},
     {tv:"domestic flight (n)",mean:"chuyến bay nội địa"},
     {tv:"undergo intensive training", mean:"trải qua khóa đào tạo chuyên sâu/ cường độ cao"},
-    {tv:"brochure (n)",mean:"tờ gấp quảng cáo"},
+    {tv:"brochure /b.rou.sờ/ (n)",mean:"tờ gấp quảng cáo"},
     {tv:"legislation (n)",mean:"= law"},
     {tv:"retain issued receipt",mean:"giữ lại hóa đơn đc phát hành"},
     {tv:"endorse (v)",mean:": quảng bá"},

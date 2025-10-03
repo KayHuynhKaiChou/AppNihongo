@@ -113,7 +113,7 @@ export default [
     {tv:"agenda /ờ.den.đờ/(n)",mean:"chương trình nghị sự, nội dung cần thảo luận trong meeting, seminar, ..."},
     {tv:"accountant (n)",mean:"kế toán viên"},
     {tv:"sales pitch (n)",mean:"1 bài presentation, nói ngắn gọn để giới thiệu, quản bá product"},
-    {tv:"chairman (n)",mean:"president = chủ tịch"},
+    {tv:"chairman (n)",mean:"president = chairperson : chủ tịch"},
     {tv:"gratitude (n)",mean:"lòng biết ơn = appreciation (n)"},
     {tv:"grateful (adj)",mean:"biết ơn"},
     {tv:"sophisticated (adj)",mean:"complex, tinh vi (dùng cho modern máy móc, device, ...)"},
