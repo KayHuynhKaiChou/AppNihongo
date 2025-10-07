@@ -66,7 +66,7 @@ export default [
     {tv:"entitle (v)", mean: "cho quyền / trao quyền => tobe entitled (được quyền làm gì)"},
     {tv:"transparent (adj)", mean:"minh bạch, rõ ràng"},
     {tv:"incentive (n)", mean:"sự khuyến khích, động lực, ưu đãi (thường là tiền thưởng, lợi ích hay lý do thúc đẩy ai đó hành động)."},
-    {tv:"clerk (n)", mean:"nhân viên văn phòng"},
+    {tv:"clerk /klɝːk/ (n)", mean:"nhân viên văn phòng"},
     {tv:"technician", mean:"kỹ thuật viên (máy móc , device , ...)"},
     {tv:"We dropped our luggage off at the hotel and went sightseeing.", mean:"we để/gửi hành lí ở hotel và đi tham quan"},
     {tv:"post-it (n)", mean:"giấy nhớ, giấy ghi chú"},

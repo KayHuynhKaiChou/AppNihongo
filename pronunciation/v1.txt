@@ -27,3 +27,7 @@ truck
 heard
 glove (hơi giống club)
 scissor
+launch
+lunch
+clerk
+clock
