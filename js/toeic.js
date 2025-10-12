@@ -141,7 +141,7 @@ export default [
     {tv:"fire drills (n)",mean:"việc diễn tập phòng cháy chữa cháy"},
     {tv:"hazardous (adj)",mean:"= dangerous (dùng cho materials, activities, ...)"},
     {tv:"decline (v)",mean:"= refuse = deny = turn down | decrease"},
-    {tv:"office supplies (n)",mean:"vật dụng, đồ dùng văn phòng phẩm (such as paper, pen, ...)"},
+    {tv:"office supplies (n)",mean:"= stationery :vật dụng, đồ dùng văn phòng phẩm (such as paper, pen, ...)"},
     {tv:"urgent (adj) => urge(v)",mean:"khẩn cấp, gấp rút, cấp bách => (v): thúc dục"},
     {tv:"get a ride (v)",mean:"tìm 1 phương tiện (để đến 1 địa điểm nào đó)"},
     {tv:"suspend (v)",mean:"= stop = cease, hoãn lại | đình chỉ"},

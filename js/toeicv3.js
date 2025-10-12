@@ -111,7 +111,7 @@ export default [
     {tv:"remedy (n)",mean:"phương thuốc, cách điều trị | = solution"},
     {tv:"superior /sụp.bia.ri.ờ/ (adj)",mean:"cao cấp hơn, vượt trội hơn"},
     {tv:"versatile (adj)",mean:"= flexible"},
-    {tv:"disdain (n,v)",mean:"(sự) kinh thường, coi thường = disregard (n,v)"},
+    {tv:"disdain (n,v)",mean:"(sự) khinh thường, coi thường = disregard (n,v)"},
     {tv:"intensify (v)",mean:"= amplify = increase"},
     {tv:"melancholic (adj)",mean:"u sầu, buồn bã = sad"},
     {tv:"optimistic (adj)",mean:"lạc quan, tích cực"},
