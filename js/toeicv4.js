@@ -112,7 +112,7 @@ export default [
     {tv:"reentry (n)",mean:"sự quay lại"},
     {tv:"duplication (n)",mean:"sự sao chép, trùng lặp, nhân đôi"},
     {tv:"surge (n,v)",mean:"(sự) gia tăng đột ngột, tăng mạnh"},
-    {tv:"owning to ...",mean:"= because of + N"},
+    {tv:"owning to ... - briefly (adv)",mean:"= because of + N - trong time ngắn, ngắn gọn"},
     {tv:"vending machine (n)",mean:"máy bán hàng tự động"},
     {tv:"soft drink (n)",mean:"nước ngọt"},
     {tv:"... By the way, ...",mean:"nhân tiện, tiện thể, à mà này"},
@@ -136,8 +136,8 @@ export default [
     {tv:"top-notch (adj)",mean:"hàng đầu, xuất sắc = outstanding"},
     {tv:"lock s.o into",mean:"nhốt s.o trong ..., ràng buộc s.o"},
     {tv:"grow (v)",mean:"develop, lớn lên, increase | trồng chọt => grower (n): người trồng ch"},
-    {tv:"markedly (adv)",mean:"1 cách rõ ràng"},
-    {tv:"enclose (v)",mean:"bao quanh, bao bọc, bao phủ"},
+    {tv:"markedly (adv) - fluctuate (v)",mean:"1 cách rõ ràng - giao động, thay đổi đột ngột"},
+    {tv:"enclose (v) - roll out",mean:"bao quanh, bao bọc, bao phủ - triển khai | ra mắt"},
     // having P3 ..., QKĐ
     // submit in writing : nộp bằng văn bản
     // next in command : phó chỉ huy
@@ -156,14 +156,20 @@ export default [
     // Provided that ... = if/ only if 
     // Seeing that ... = since/because
     // rewarded (adj): được trao thưởng | rewarding (adj): bổ ích, đáng giá
+    // By the time QKĐ, QKhT - By the time HTĐ, TLHT
+    // By the time = when
+    // Prior to = before
+    // move + adv + to + HCM : di chuyển tới HCM 1 cách adv
     {tv:"designate (v) - shortly(adv)",mean:"bổ nhiệm, chỉ định - trong time ngắn"},
     {tv:"obligation (n) - bloom (n)", mean:"nghĩa vụ, bổn phận - cây chổi (để quét)"},
     {tv:"plant (n)",mean:"thực vật | nhà máy, xí nghiệps"},
-    {tv:"barely(adv)",mean:"chỉ vừa đủ, hầu như ko"},
-    // {tv:"the chairs are folded in against the wall",mean:"Những chiếc ghế đc gấp lại sát vào tường"},
-    // {tv:"roof (n)",mean:"mái nhà"},
-    // {tv:"procure (v) /prə.kiu.ờ/",mean:"= buy"},
-    // {tv:"quoutation /kou.tei.sình/ (n)",mean:"bảng báo giá"},
-    // {tv:"return policy (n)",mean:"chính sách hoàn trả, đổi trả"},
-    // {tv:"overcharge (v)",mean:"tính giá quá cao, bán quá đắt"},
+    {tv:"barely(adv) - evenly(adv)",mean:"chỉ vừa đủ, hầu như ko - 1 cách đồng đều"},
+    {tv:"unusual signals (n) - fountain(n)",mean:"những dấu hiệu bất thường - đài phun nước"},
+    {tv:"surpass (n)",mean:"vượt qua, vượt xa, vượt trội hơn"},
+    {tv:"rarely",mean:"= seldom: hiếm khi, ít khi"},
+    {tv:"commute(v) - commuter(n)",mean:"đi làm, đi học - người đi làm, người đi học"},
+    {tv:"relocate (v) - endure (v)",mean:"chuyển chỗ, dời đến nơi khác - = suffer"},
+    {tv:"perishable goods - lobby(n)",mean:"hàng hóa dễ hỏng, hư - sảnh (khu vực chờ đợi ở hotel,...)"},
+    {tv:"enduring (adj)",mean:"lâu dài, bền vững - endured ko phải adj nhé"},
+    {tv:"mark (n,v)",mean:"n: dấu ấn, điểm số, dấu vết - v: đánh dấu, chấm điểm (bài)"},
 ]
