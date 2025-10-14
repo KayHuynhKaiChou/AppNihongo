@@ -1,7 +1,6 @@
 export default [
     {tv:"pharmacy (n) /ˈfɑːr.mə.si/",mean:"hiệu thuốc"},
     {tv:"downstair (adj)",mean:"ở tầng dưới"},
-    // //emergency road/rou.đ/ 
     {tv:"pick up the bill",mean:"thanh toán hóa đơn, trả tiền"},
     {tv:"fortune /for.chun/ (n)",mean:"1 khoảng tiền lớn"},
     {tv:"The party is over",mean:"bữa tiệt kết thúc rồi"},
@@ -160,16 +159,23 @@ export default [
     // By the time = when
     // Prior to = before
     // move + adv + to + HCM : di chuyển tới HCM 1 cách adv
+    {tv:"adopt a similar style",mean:"làm theo/ bắt trước 1 kiểu tương tự"},
+    {tv:"mutually (adv) - mobility(n)",mean:"lẫn nhau, chung - khả năg di chuyển"},
+    {tv:"frank (adj)",mean:"thẳng thắng, thành thật, nói thẳng"},
     {tv:"designate (v) - shortly(adv)",mean:"bổ nhiệm, chỉ định - trong time ngắn"},
     {tv:"obligation (n) - bloom (n)", mean:"nghĩa vụ, bổn phận - cây chổi (để quét)"},
-    {tv:"plant (n)",mean:"thực vật | nhà máy, xí nghiệps"},
+    {tv:"plant (n)",mean:"thực vật | nhà máy, xí nghiệp"},
     {tv:"barely(adv) - evenly(adv)",mean:"chỉ vừa đủ, hầu như ko - 1 cách đồng đều"},
     {tv:"unusual signals (n) - fountain(n)",mean:"những dấu hiệu bất thường - đài phun nước"},
-    {tv:"surpass (n)",mean:"vượt qua, vượt xa, vượt trội hơn"},
-    {tv:"rarely",mean:"= seldom: hiếm khi, ít khi"},
-    {tv:"commute(v) - commuter(n)",mean:"đi làm, đi học - người đi làm, người đi học"},
-    {tv:"relocate (v) - endure (v)",mean:"chuyển chỗ, dời đến nơi khác - = suffer"},
+    {tv:"surpass/sɚˈpæs/(v)",mean:"vượt qua, vượt xa, vượt trội hơn"},
+    {tv:"rarely - refurbish (v)",mean:"= seldom: hiếm khi, ít khi - = remodel"},
+    {tv:"commute/kəm.miu.t/(v) - commuter(n)",mean:"đi làm, đi học - người đi làm, người đi học"},
+    {tv:"relocate (v) - endure /ɪnˈdʒʊər/ (v)",mean:"chuyển chỗ, dời đến nơi khác - = suffer"},
     {tv:"perishable goods - lobby(n)",mean:"hàng hóa dễ hỏng, hư - sảnh (khu vực chờ đợi ở hotel,...)"},
     {tv:"enduring (adj)",mean:"lâu dài, bền vững - endured ko phải adj nhé"},
     {tv:"mark (n,v)",mean:"n: dấu ấn, điểm số, dấu vết - v: đánh dấu, chấm điểm (bài)"},
+    {tv:"cruise(n) - automobile(n)",mean:"chuyến du lịch bằng tàu biển - = car"},
+    {tv:"traffic congestion /kənˈchét.sən/(n)",mean:"tắt nghẽn giao thông"},
+    {tv:"embark /ɪmˈbɑːrk/ on(v) - remodel(v)",mean:"bắt đầu (1 journey, ...) - tân trang, sửa sang lại"},
+    {tv:"boutique /buːˈtiːk/ - boutique hotel(n)",mean:"cửa hàng nhỏ, cao cấp - khách sạn nhỏ và cao cấp"},
 ]
