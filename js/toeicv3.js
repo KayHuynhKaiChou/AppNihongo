@@ -134,7 +134,7 @@ export default [
     {tv:"recommend (v)",mean:"= propose, = suggest"},
     {tv:"overhead compartment/bin (n)", mean:"nơi chứa hành lý , nằm ở trên chỗ ngồi ở plane"},
     {tv:"compile (v)",mean:"= collect, bring together"},
-    {tv:"exquisite (adj)",mean:"beatiful = gorgeous: đẹp | delicate=elegant=graceful(duyên dáng): tinh tế"},
+    {tv:"exquisite /ik.swi.zịt/(adj)",mean:"beatiful = gorgeous: đẹp | delicate=elegant=graceful(duyên dáng): tinh tế"},
     {tv:"extraodinary /ik.stro.đən.nè.rì/ (adj)",mean:"= strange, weird: lạ thường, khác thường | = remarkable = exceptional..."},
     {tv:"bookcase (n)",mean:"tủ sách"},
     {tv:"cushion /ku.sình/ (n)",mean:"gối tựa lưng (hay nằm ở ghế sofa phòng khách)"},

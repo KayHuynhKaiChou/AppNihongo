@@ -90,7 +90,7 @@ export default [
     {tv:"eject (v)",mean:"rút cái gì ra | đuổi ai ra ngoài"},
     {tv:"opposition party (n)",mean:"bên/đảng đối lập"},
     {tv:"reform (n,v)",mean:"(n)sự cải cách, cải tổ, cải thiện , v: = improve"},
-    {tv:"affordable price (n)",mean:"giá cả phải chăng, đủ khả năng trả, ko quá đắt"},
+    {tv:"affordable/moderate price (n)",mean:"giá cả phải chăng, đủ khả năng trả, ko quá đắt"},
     {tv:"... Meanwhile, ...",mean:"Trong khi đó"},
     {tv:"upcoming (adj)",mean:"sắp tới, sắp diễn ra"},
     {tv:"cooling system (n)",mean:"hệ thống làm mát"},
