@@ -1,5 +1,5 @@
 export default [
-    {tv:"interfere (v)",mean:"can thiệp, xen vào"},
+    {tv:"interfere (v) - website traffic(n)",mean:"can thiệp, xen vào - lượng người truy cập website"},
     {tv:"loan (n)",mean:"khoản vay / các khoản vay"},
     {tv:"merit (v,n)",mean:"xứng đáng = deserve (v) | (n): điểm mạnh, giá trị"},
     {tv:"recognition (n)",mean:"sự công nhận"},

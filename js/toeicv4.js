@@ -1,6 +1,6 @@
 export default [
-    {tv:"pharmacy (n) /ˈfɑːr.mə.si/",mean:"hiệu thuốc"},
-    {tv:"downstair (adj)",mean:"ở tầng dưới"},
+    {tv:"pharmacy (n) /ˈfɑːr.mə.si/ - sustainable(adj)",mean:"hiệu thuốc - bền vững"},
+    {tv:"downstair (adj) - feature(v)",mean:"ở tầng dưới - có"},
     {tv:"pick up the bill",mean:"thanh toán hóa đơn, trả tiền"},
     {tv:"fortune /for.chun/ (n)",mean:"1 khoảng tiền lớn"},
     {tv:"The party is over",mean:"bữa tiệt kết thúc rồi"},
@@ -47,18 +47,18 @@ export default [
     {tv:"fasten seatbelt (n)", mean:"thắt dây an toàn (của xe hơi, ...)"},
     {tv:"exotic (adj)", mean:"kì lạ = strange | khác biệt = striking = exceptional"},
     {tv:"plumbing system (n)", mean:"hệ thống ống nước"},
-    {tv:"intend to !== tend to", mean:"dự định, ý định làm gi !== có xu hướng làm gì"},
-    {tv:"pipes underground (n)", mean:"đường ống dưới lòng đất"},
-    {tv:"dig (v)", mean: "đào bới"},
-    {tv:"hiking boot (n)", mean: "giày đi bộ đường dài"},
-    {tv:"drawer (n)",mean:"ngăn kéo"},
-    {tv:"cheese(n)",mean:"phô mai"},
+    {tv:"intend to - tend to", mean:"dự định, ý định làm gi - có xu hướng làm gì = incline to V"},
+    {tv:"pipes underground (n) - leave for A", mean:"đường ống dưới lòng đất - rời khỏi đây để đến A"},
+    {tv:"dig (v) - incense(v) s.o", mean: "đào bới - make s.o angry"},
+    {tv:"hiking boot (n) - cheese(n)", mean: "giày đi bộ đường dài - phô mai"},
+    {tv:"drawer (n) - incite s.o to V",mean:"ngăn kéo - kích động, xúi giục ai làm gì"},
+    {tv:"wire(n) - wiring(n)",mean:"dây điện - hệ thống dây điện"},
     {tv:"cater for/to + event/người",mean:"cung cấp, phục vụ"},
     {tv:"tobe across from",mean:"ở đối diện, ở bên kia"},
     {tv:"promotional deal (n)",mean:"chương trình khuyến mãi"},
     {tv:"sale figure (n)",mean:"số liệu bán hàng"},
-    {tv:"tobe about the same",mean:"gần giống nhau"},
-    {tv:"terminal (n)",mean:"nhà ga"},
+    {tv:"tobe about the same - misprint(n) - flawed/flo.đ/(adj)",mean:"gần giống nhau - lỗi in ấn - bị lỗi, có sai sót"},
+    {tv:"terminal (n) - front cover(n)",mean:"nhà ga - bìa trước(của 1 sách, tạp chí...)"},
     // area /e.ri.ờ/
     {tv:"neglect/ignore + to V",mean:"phớt lờ, lãng tránh"},
     {tv:"tobe adjacent to",mean:"kế bên, sát cạnh = next to = by = nearby"},
@@ -80,7 +80,7 @@ export default [
     {tv:"Cloth (n)",mean:"vải / vải để lau chùi"},
     {tv:"tour of the property (n)",mean:"chuyến đi tham quan bất động sản (it means 1 customer đi xem 1 căn nhà đang đc rao bán ...)"},
     {tv:"dietitian (n)",mean:"chuyên gia dinh dưỡng"},
-    {tv:"spacious /ˈspeɪ.ʃəs/ (adj)",mean:"rộng lớn, rộng rãi, có nhiều không gian bên trong"},
+    {tv:"spacious /ˈspeɪ.ʃəs/ (adj) - S + tobe fit",mean:"rộng lớn, rộng rãi, có nhiều không gian bên trong - S khỏe mạnh"},
     {tv:"down the street ",mean:"ở cuối phố"},
     {tv:"coast (n)",mean:"bờ biển"},
     {tv:"agree on/upon",mean:"thống nhất , đồng ý với"},
@@ -102,30 +102,30 @@ export default [
     {tv:"TV host (n)",mean:"người dẫn chương trình"},
     {tv:"booth (n)",mean:"space để trưng bày product nhằm giới thiệu, quảng cáo"},
     {tv:"placing ads", mean:"đăng/chạy quảng cáo (là đăng bài lên social media để quảng cáo sp)"},
-    {tv:"sponsor (n,v)",mean: "n: nhà tài trợ, v: tài trợ"},
+    {tv:"sponsor (n,v) - cosmetic(n,v)",mean: "n: nhà tài trợ, v: tài trợ - mỹ phẩm"},
     {tv:"award banquet (n)",mean:"buổi tiệc trao giải / tiệc vinh danh"},
     {tv:"gently (adv) - gentle (adj)",mean:"nhẹ nhàng, dịu dàng"},
     {tv:"tomato seedling (n) - statement (n)",mean:"cây cà chua - sự tuyên bố, phát biểu, trình bày"},
     {tv:"root (n) - former(adj)",mean:"rễ cây - trước đây, cựu"},
-    {tv:"sibling (n)",mean:"anh ,chị ,em ruột"},
+    {tv:"sibling (n) - lean(adj)",mean:"anh ,chị ,em ruột - = thin = skinny: gầy,ốm | nạc(thịt)"},
     {tv:"reentry (n)",mean:"sự quay lại"},
     {tv:"duplication (n)",mean:"sự sao chép, trùng lặp, nhân đôi"},
     {tv:"surge (n,v)",mean:"(sự) gia tăng đột ngột, tăng mạnh"},
-    {tv:"owning to ... - briefly (adv)",mean:"= because of + N - ngắn gọn"},
+    {tv:"owning to ... - briefly (adv)",mean:"= because of = due to + N - ngắn gọn"},
     {tv:"vending machine (n)",mean:"máy bán hàng tự động"},
-    {tv:"soft drink (n)",mean:"nước ngọt"},
-    {tv:"... By the way, ...",mean:"nhân tiện, tiện thể, à mà này"},
-    {tv:"... After all, ...",mean:"rốt cuộc thì, hóa ra là"},
-    {tv:"... In the meantime, ...",mean:"trong khi/lúc đó , trong lúc chờ đợi"},
-    {tv:"profitable (adj)",mean:"có lãi, có lợi nhuận"},
+    {tv:"soft drink (n) - promising(adj)",mean:"nước ngọt - đầy hứa hẹn, có triển vọng, có tương lai"},
+    {tv:"... By the way, ... - sacrifice(v)",mean:"nhân tiện, tiện thể, à mà này - hy sinh, từ bỏ"},
+    {tv:"... After all, ... - convicted(adj)",mean:"rốt cuộc thì, hóa ra là - bị kết án"},
+    {tv:"... In the meantime, ... - collect s.o",mean:"trong khi/lúc đó , trong lúc chờ đợi - pick s.o up: đón ai đó"},
+    {tv:"profitable (adj) - criminal(n)",mean:"có lãi, có lợi nhuận - tội phạm, ng có tội"},
     {tv:"behaft (n) - On behalf of the entire staff",mean:"sự thay mặt cho, đại diện cho - thay mặt toàn bộ nv"},
-    {tv:"supplemental (adj) ",mean:"mang tính bổ sung = additional"},
+    {tv:"supplemental (adj) - appealing(adj)",mean:"mang tính bổ sung = additional - hấp dẫn , attractive"},
     {tv:"moderator (n)",mean:"người điều phối, giám sát content (kiểm duyệt nội dung , xóa bỏ bài viết vi phạm trên social media)"},
     {tv:"every weekday",mean:"mỗi ngày trong tuần (từ monday to friday)"},
     {tv:"Dairy product",mean:"sp về sữa (nhữ sữa chua, phô mai, ...)"},
     {tv:"tardiness (n)",mean:"sự chậm chễ, chậm chạp => tardy(adj)"},
     {tv:"There's no room to sit on the bench",mean:"Không còn chỗ để ngồi trên ghế băng"},
-    {tv:"dock (n, v)",mean:"(n):bến tàu, bến cảng , v: cập bến, đậu (ở đâu)"},
+    {tv:"dock (n, v) - footwear department(n)",mean:"n:bến tàu, bến cảng , v:cập bến, đậu (ở đâu) - khu giày dép"},
     {tv:"muddy (adj) - Institution(n)",mean:"lấm/dính bùn/đất - cơ quan, tổ chức"},
     {tv:"boot (n) - basket (n)",mean:"đôi ủng - cái rổ, cái giỏ"},
     {tv:"pitcher (n) - plate(n)",mean:"bình đựng nước (để rót nước ra li uống) - cái dĩa"},
@@ -137,6 +137,7 @@ export default [
     {tv:"grow (v)",mean:"develop, lớn lên, increase | trồng chọt => grower (n): người trồng ch"},
     {tv:"markedly (adv) - fluctuate (v)",mean:"1 cách rõ ràng - giao động, thay đổi đột ngột"},
     {tv:"enclose (v) - roll out",mean:"bao quanh, bao bọc, bao phủ - triển khai | ra mắt"},
+    // S + claim to have P3 khi câu ở Quá khứ , còn lại thì claim to V-bare
     // having P3 ..., QKĐ
     // submit in writing : nộp bằng văn bản
     // next in command : phó chỉ huy
@@ -159,7 +160,13 @@ export default [
     // By the time = when
     // Prior to = before
     // move + adv + to + HCM : di chuyển tới HCM 1 cách adv
-    {tv:"adopt a similar style",mean:"làm theo/ bắt trước 1 kiểu tương tự"},
+    // as + N/cụm N: như là N
+    // as + S + V => as = When/Because
+    // give s.o a lift to the nơi : chở s.o tới nơi nào đó
+    // have/has no intention of V-ing : ko có ý định làm gì
+    // put forward = propose : đưa ra, đề xuất
+    // incline to V = tend to V : có xu hướng làm gì
+    {tv:"adopt a similar style - prior(adj)",mean:"làm theo/ bắt trước 1 kiểu tương tự - trước đó"},
     {tv:"mutually (adv) - mobility(n)",mean:"lẫn nhau, chung - khả năg di chuyển"},
     {tv:"frank (adj) - lawn(n) /lon/",mean:"thẳng thắng, thành thật, nói thẳng - bãi cỏ"},
     {tv:"designate (v) - shortly(adv)",mean:"bổ nhiệm, chỉ định - trong time ngắn"},
@@ -178,4 +185,11 @@ export default [
     {tv:"traffic congestion /kənˈchét.sən/(n)",mean:"tắt nghẽn giao thông"},
     {tv:"embark /ɪmˈbɑːrk/ on(v) - remodel(v)",mean:"bắt đầu (1 journey, ...) - tân trang, sửa sang lại"},
     {tv:"boutique /buːˈtiːk/ - boutique hotel(n)",mean:"cửa hàng nhỏ, cao cấp - khách sạn nhỏ và cao cấp"},
+
+    //đồng âm
+    // result - resolve
+    // play - place
+    // sell - sale
+    // sit - seats
+    // which day - weekdays
 ]
