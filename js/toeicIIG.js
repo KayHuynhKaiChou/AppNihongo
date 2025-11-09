@@ -70,7 +70,7 @@ export default [
     {tv:"interchangeable", mean:"có thể thay thế cho nhau"},
     {tv:"companionable => companion", mean:"dễ gần, dễ làm bạn"},
     {tv:"disclose (v) => disclosure(n)", mean:"tiết lộ, vạch trần, phơi bày"},
-    {tv:"front desk(n)", mean:"quầy lễ tân"},
+    {tv:"front desk(n) - cable television(n)", mean:"quầy lễ tân - truyền hình cáp"},
     {tv:"dessert /dɪˈzɝːt/ - desert /ˈdez.ɚt/",mean:"món tráng miệng - sa mạc"},
     {tv:"dramatic(adj) - monstrous(adj)/ˈmɑːn.strəs/",mean:"kịch tính, đột ngột - quái dị, kỳ quái| cruel(adj)"},
     {tv:"be pleased with + noun",mean:"hài lòng với cái gì."},

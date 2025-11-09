@@ -27,19 +27,19 @@ export default [
     {tv:"stow /stoʊ/ (v)",mean:"cất giữ"},
     {tv:"complimentary beverage /be.vờ.rịt.ch/(n) - transmission(n)",mean:"đồ uống free - sự truyền tải, chuyển giao"},
     {tv:"dinnerware (n) - division(n)",mean:"bộ vật dụng đồ ăn (gồm đĩa, bát, thìa, ...) - sự phân chia"},
-    {tv:"artwork (n)",mean:"tác phẩm nghệ thuật"},
+    {tv:"artwork (n) - conquer(v)",mean:"tác phẩm nghệ thuật - chinh phục"},
     {tv:"shipping volume (n) - bargain(n)",mean:"khối lượng hàng hóa - món hời(mua đc với giá rẻ)"},
-    {tv:"lift weights(v)",mean:"nâng,nhấc tạ"},
-    {tv:"scarf (n)",mean:"khăn choàng cổ"},
-    {tv:"shirt (n)",mean:"áo sơ mi"},
+    {tv:"lift weights(v) - console(v)",mean:"nâng,nhấc tạ - an ủi = comfort"},
+    {tv:"scarf (n) - soothing(adj)",mean:"khăn choàng cổ - êm dịu, êm ái"},
+    {tv:"shirt (n) - ease(v)",mean:"áo sơ mi - giảm (đau, cường độ, ...)"},
     {tv:"measuring tape (n)",mean:"thước dây"},
     {tv:"curtain /cơ.tình/(n) - hall (n)",mean:"rèm cửa - hành lang"},
     {tv:"rough(adj) - roughly(adv)",mean:"gồ ghề (tức là ko phẳng, có chỗ nhô lên) - xấp xỉ"},
     {tv:"slim (adj) - nursing home(n)",mean:"mỏng manh, thon gọn - viện dưỡng lão"},
     {tv:"veterinary (adj)",mean:"thuộc về thú y"},
-    {tv:"avenue (n)",mean:"đại lộ"},
+    {tv:"avenue (n) - deteriorate(v)",mean:"đại lộ - trở nên tồi tệ hơn, suy giảm giá trị/chất lượng"},
     {tv:"adjourn (v)",mean:"delay = postpone = put off = push back = reschedule: trì hoãn, tạm dừng, dời lại"},
-    {tv:"parking lot (n)",mean:"nơi đậu, để xe"},
+    {tv:"parking lot (n) - occasionally - wardrobe(n)",mean:"nơi đậu, để xe - thỉnh thoảng - tủ quần áo"},
     {tv:"have the intended effect",mean:"có tác dụng như mong đợi"},
     {tv:"associate (n)",mean:"nhân viên = clerk = employee = agent = staff = personnel"},
     {tv:"mechanism (n) - apparent(adj)",mean:"cơ chế, cách thức hoạt động -=obvious, clear, transparent"},
@@ -67,7 +67,7 @@ export default [
     {tv:"pertinent to N", mean: "liên quan đến/ về = concerning = regarding = related to = associated with"},
     {tv:"indefinite (adj) - shut down(v)", mean:"vô thời hạn | ko rõ ràng - tắt(PC)| ngừng hoạt động"},
     {tv:"Lecture theater (n)", mean:"giảng đường (một phòng học lớn, có sức chứa hàng trăm sinh viên)"},
-    {tv:"put the brakes on /brei.sən/", mean:"phanh, thắng lại , giảm tốc độ"},
+    {tv:"put the brakes on /brei.sən/ - run for office", mean:"phanh, thắng lại , giảm tốc độ - tham gia tranh cử"},
     {tv:"compromise /ˈkɑːm.prə.maɪz/ (n)", mean:"sự thỏa hiệp (2 bên phải concession để đi đến thỏa thuận)"},
     {tv:"concession /kənˈseʃ.ən/ (n) - literacy rates(n)", mean:"sự nhượng bộ - tỉ lệ biết chữ"},
     {tv:"leverage /lê.vờ.rịt.ch/ (n) - marvelous(adj)", mean:"lợi thế - = wonderful, fantastic"},
@@ -110,8 +110,8 @@ export default [
     {tv:"sibling (n) - lean/li:n/(adj)",mean:"anh ,chị ,em ruột - = thin = skinny: gầy,ốm | nạc(thịt)"},
     {tv:"reentry (n) - place a bid - psychological/sai.cơ.lo.chịt.cồ/ counseling(n)",mean:"sự quay lại - đưa ra mức giá - tư vấn tâm lý"},
     {tv:"duplication (n) - relatives(n)",mean:"sự sao chép, trùng lặp, nhân đôi - họ hàng, người thân"},
-    {tv:"surge (n,v)",mean:"(sự) gia tăng đột ngột, tăng mạnh"},
-    {tv:"owning to ... - briefly (adv)",mean:"= because of = due to = on account of = as a result of + N - ngắn gọn"},
+    {tv:"surge (n,v) - vaguely(adv)",mean:"(sự) gia tăng đột ngột, tăng mạnh - 1 cách mơ hồ, ko rõ ràng"},
+    {tv:"owning to ...",mean:"= because of = due to = on account of = as a result of + N"},
     {tv:"vending machine (n) - dispose of sth",mean:"máy bán hàng tự động + vứt bỏ sth = throw away"},
     {tv:"soft drink (n) - promising(adj)",mean:"nước ngọt - đầy hứa hẹn, có triển vọng, có tương lai"},
     {tv:"... By the way, ... - sacrifice/ˈsæk.rə.faɪs/(v)",mean:"nhân tiện, tiện thể, à mà này - hy sinh, từ bỏ"},
@@ -140,9 +140,12 @@ export default [
     // ... as if, ... : như thể là
     // as well luôn đứng cuối câu
     // drop = decrease
+    // without + N/V-ing
+    // so as to/in order to + V-bare : để làm gì
     // trạng từ quan hệ (where,when,why) + S + V + ...
     // go on to V : sau đó làm gì (tiếp tục hoặc chuyển sang làm một hành động mới sau khi đã hoàn thành một hành động khác trước đó)
     // survival(adj): sinh tồn
+    // condition(n): điều kiện, tình trạng
     // outlook: triển vọn
     // 1 century = 100 years , 1 decade = 10 years
     // “Once” = as soon as / when (ngay khi, một khi).
@@ -167,7 +170,8 @@ export default [
     // rewarded (adj): được trao thưởng | rewarding (adj): bổ ích, đáng giá
     // By the time QKĐ, QKhT - By the time HTĐ, TLHT
     // By the time = when
-    // Prior to = before
+    // Prior to = before = in advance of nhưng:
+    // prior to = in advance of + N/V-ing còn before + N/V-ing/S+V...
     // move + adv + to + HCM : di chuyển tới HCM 1 cách adv
     // as + N/cụm N: như là N
     // as + S + V => as = When/Because
