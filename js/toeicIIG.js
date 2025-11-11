@@ -129,7 +129,7 @@ export default [
     {tv:"... now that ... - apparel(n)",mean:"... bởi vì bây giờ / vì hiện tại … - =clothes:quần áo"},
     {tv:"resume(v) - attempt to V",mean:"continue, start lại - = try to V"},
     {tv:"pants (n) - wave(v) hand", mean:"quần dài - vẫy tay"},
-    {tv:"prospective employees",mean:"= potential candidates: những ứng viên tiềm năng"},
+    {tv:"prospective employees - troubleshoot(v)",mean:"= potential candidates: những ứng viên tiềm năng - =fix,solve"},
     {tv:"documentary(n,adj) - seiling/si:.ling/(n)",mean:"(n)phim tài liệu | (adj)thuộc về tài liệu - trần nhà"},
     {tv:"closet /ˈklɑː.zət/(n) - Inherently(adv)",mean:"tủ quần áo - vốn dĩ"},
     {tv:"coat (n) - hasty(adj)",mean:"áo khoát - vội vã, hấp tấp, ko cẩn thận"},

@@ -1,6 +1,6 @@
 export default [
     {tv:"pharmacy (n) /ˈfɑːr.mə.si/ - sustainable(adj) - sustain(v)",mean:"hiệu thuốc - bền vững - giữ vững"},
-    {tv:"downstair (adj) - feature(v) - recipient(n)",mean:"ở tầng dưới - có - người nhận"},
+    {tv:"downstair (adj) - feature(v) - n(n)",mean:"ở tầng dưới - có - người nhận"},
     {tv:"pick up the bill - alternate(v)",mean:"thanh toán hóa đơn, trả tiền - thay thế, luân phiên"},
     {tv:"fortune /for.chun/ (n) - devote + time + to V-ing",mean:"1 khoảng tiền lớn - dành time để làm gì"},
     {tv:"The party is over - acquisition(n)",mean:"bữa tiệt kết thúc rồi - việc mua lại, lấy lại"},
@@ -24,7 +24,7 @@ export default [
     {tv:"roadblock (n)",mean:"Rào chắn hoặc chướng ngại vật trên đường (chặn lối đi để thi công ...)"},
     {tv:"give birth (n) - accountability(n)",mean:"sinh, đẻ con - =responsibility(n)"},
     {tv:"handout (n) - belove(v)",mean:"tài liệu phát tay (đc phát đến tay người join event, class,...) - yêu mếm, yêu thương"},
-    {tv:"stow /stoʊ/ (v)",mean:"cất giữ"},
+    {tv:"stow /stoʊ/ (v) - landlord(n)",mean:"cất giữ - người chủ nhà, ng cho thuê"},
     {tv:"complimentary beverage /be.vờ.rịt.ch/(n) - transmission(n)",mean:"đồ uống free - sự truyền tải, chuyển giao"},
     {tv:"dinnerware (n) - division(n)",mean:"bộ vật dụng đồ ăn (gồm đĩa, bát, thìa, ...) - sự phân chia"},
     {tv:"artwork (n) - conquer(v)",mean:"tác phẩm nghệ thuật - chinh phục"},
@@ -32,28 +32,28 @@ export default [
     {tv:"lift weights(v) - console(v)",mean:"nâng,nhấc tạ - an ủi = comfort"},
     {tv:"scarf (n) - soothing(adj)",mean:"khăn choàng cổ - êm dịu, êm ái"},
     {tv:"shirt (n) - ease(v)",mean:"áo sơ mi - giảm (đau, cường độ, ...)"},
-    {tv:"measuring tape (n)",mean:"thước dây"},
+    {tv:"measuring tape (n) - mild temperament(n)",mean:"thước dây - nhiệt độ nhẹ, dịu"},
     {tv:"curtain /cơ.tình/(n) - hall (n)",mean:"rèm cửa - hành lang"},
     {tv:"rough(adj) - roughly(adv)",mean:"gồ ghề (tức là ko phẳng, có chỗ nhô lên) - xấp xỉ"},
     {tv:"slim (adj) - nursing home(n)",mean:"mỏng manh, thon gọn - viện dưỡng lão"},
-    {tv:"veterinary (adj)",mean:"thuộc về thú y"},
+    {tv:"veterinary (adj) - increasingly important",mean:"thuộc về thú y - ngày càng quan trọng"},
     {tv:"avenue (n) - deteriorate(v)",mean:"đại lộ - trở nên tồi tệ hơn, suy giảm giá trị/chất lượng"},
     {tv:"adjourn (v)",mean:"delay = postpone = put off = push back = reschedule: trì hoãn, tạm dừng, dời lại"},
     {tv:"parking lot (n) - occasionally - wardrobe(n)",mean:"nơi đậu, để xe - thỉnh thoảng - tủ quần áo"},
-    {tv:"have the intended effect",mean:"có tác dụng như mong đợi"},
+    {tv:"have the intended effect - abstract(n)",mean:"có tác dụng như mong đợi - bảng tóm tắt"},
     {tv:"associate (n)",mean:"nhân viên = clerk = employee = agent = staff = personnel"},
     {tv:"mechanism (n) - apparent(adj)",mean:"cơ chế, cách thức hoạt động -=obvious, clear, transparent"},
     {tv:"mechanic (n) - feasible(adj)", mean:"thợ máy, công nhân cơ khí -=viable(adj)"},
     {tv:"fasten seatbelt (n)", mean:"thắt dây an toàn (của xe hơi, ...)"},
     {tv:"exotic (adj)", mean:"kì lạ = strange | khác biệt = striking = exceptional"},
-    {tv:"plumbing system (n)", mean:"hệ thống ống nước"},
+    {tv:"plumbing system (n) - contamination(n)", mean:"hệ thống ống nước - =pollution: sự ô nhiễm, nhiễm bẩn"},
     {tv:"intend to - tend to", mean:"dự định, ý định làm gi - có xu hướng làm gì = incline to V"},
     {tv:"pipes underground (n) - leave for A", mean:"đường ống dưới lòng đất - rời khỏi đây để đến A"},
     {tv:"dig (v) - incense(v) s.o", mean: "đào bới - make s.o angry"},
-    {tv:"hiking boot (n) - cheese(n)", mean: "giày đi bộ đường dài - phô mai"},
+    {tv:"hiking boot (n) - cheese(n) - deforest(v)", mean: "giày đi bộ đường dài - phô mai - phá rừng"},
     {tv:"drawer (n) - incite s.o to V",mean:"ngăn kéo - kích động, xúi giục ai làm gì"},
     {tv:"wire(n) - wiring(n)",mean:"dây điện - hệ thống dây điện"},
-    {tv:"cater for/to + event/người",mean:"cung cấp, phục vụ"},
+    {tv:"cater for/to + event/người - deplete(v)",mean:"cung cấp, phục vụ - cạn kiệt, use hết = exhaust = use up = drain"},
     {tv:"tobe across from - adverse/ædˈvɝːs/(adj)",mean:"ở đối diện, ở bên kia - bất lợi , negative"},
     {tv:"promotional deal (n) - deny all allegations",mean:"chương trình khuyến mãi - phủ nhận mọi cáo buộc"},
     {tv:"sale figure (n) - appoint(v)",mean:"số liệu bán hàng - =designate"},
@@ -88,7 +88,7 @@ export default [
     {tv:"courtesy /cơ.đờ.sì/ (n) - courtesy of s.o/sth",mean:"sự lịch sự = politeness - (food) đc chiêu đãi, tài trợ bởi ai/nơi nào"},
     {tv:"customer retention (n) - farewell/pha.weo/",mean:"sự giữ chân khách hàng - chia tay, tạm biệt"},
     {tv:"prompt (n,v,adj)",mean:"adj: nhanh chóng, v: make something happen"},
-    {tv:"reassure /ˌriː.əˈʃʊr/ (v)",mean:"trấn an, an ủi = comfort /ˈkʌm.fət/"},
+    {tv:"reassure /ˌriː.əˈʃʊr/ (v) - cope with(v)",mean:"trấn an, an ủi = comfort /ˈkʌm.fət/ - đối phó, handle"},
     {tv:"service outage (n) - depressed(adj)",mean:"sự cố dịch vụ (vd: 500 error, 404, ...) - unhappy, chán nản"},
     {tv:"escalate (v)",mean:"đưa 1 người cấp cao hơn xử lí problem hay complaint của customer"},
     {tv:"attentive (adj) - compliance(n)",mean:"ân cần, chu đáo = considerate - sự tuân thủ, tuân theo (luật)"},
@@ -156,14 +156,17 @@ export default [
     // next in order: người tiếp theo (vị trí)
     // get across : truyền đạt, làm cho ng khác hiểu
     // get by : xoay sở
+    // company car: xe công ty
     // have no regards for sth: ko quan tâm sth
     // market forces: yếu tố thị trường
     // polish
     // stay up late
     // pump gas into the car
     // point at sth: chỉ vàso sth
-    // during + Noun (the meeting, pandemic, event, ...)
+    // this week => chỉ dùng HTTD, TLĐ
+    // during + Noun/cụm Noun (the meeting, pandemic, event, ...) , cứ bắt đầu là the => cụm Noun
     // over + times (years, months, decades, ...)
+    // lưu ý : during/over the last six months đều ok vì có the đằng trước => cụm Noun nên dùng during cx đc
     // prompt (n): lời gợi ý - promptness (n): sự nhanh chóng, nhanh gọn
     // Provided that ... = if/ only if 
     // Seeing that ... = since/because
@@ -192,6 +195,7 @@ export default [
     // lives/lai.s/ là số nhiều của life
     // following : giới từ: sau khi - adj: kế tiếp
     // display(v): hiển thị, trưng bày | thể hiện
+    // enduring = firm = unwavering = sustainable : lâu dài , bền vững, vững chắc
     {tv:"adopt a similar style - prior(adj)",mean:"làm theo/ bắt trước 1 kiểu tương tự - trước đó"},
     {tv:"mutually (adv) - mobility(n) - lottery(n)",mean:"lẫn nhau, chung - khả năg di chuyển - sổ xố"},
     {tv:"frank (adj) - lawn(n) /lon/",mean:"thẳng thắng, thành thật, nói thẳng - bãi cỏ"},
@@ -211,8 +215,8 @@ export default [
     {tv:"traffic congestion /kənˈchét.sən/(n) - alert/əˈlɝːt/ sb to sth",mean:"tắt nghẽn giao thông - cảnh báo sb về sth"},
     {tv:"embark /ɪmˈbɑːrk/ on(v) - remodel(v)",mean:"bắt đầu (1 journey, ...) - tân trang, sửa sang lại"},
     {tv:"boutique /buːˈtiːk/ - boutique hotel(n)",mean:"cửa hàng nhỏ, cao cấp - khách sạn nhỏ và cao cấp"},
-    {tv:"shorten(v) - shortage(n)",mean:"làm ngắn lại| rút ngắn - sự thiếu hụt/thốn"}
-    // enduring = firm = unwavering : lâu dài , bền vững, vững chắc
+    {tv:"shorten(v) - shortage(n)",mean:"làm ngắn lại| rút ngắn - sự thiếu hụt/thốn"},
+    {tv:"Thanks to so/sth, ...",mean:"Nhờ vào, do so/sth, ..."},
     //đồng âm
     // result - resolve
     // play - place
