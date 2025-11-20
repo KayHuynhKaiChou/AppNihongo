@@ -1,6 +1,6 @@
 export default [
     {tv:"pharmacy (n) /ˈfɑːr.mə.si/ - sustainable(adj) - sustain(v)",mean:"hiệu thuốc - bền vững - giữ vững"},
-    {tv:"downstair (adj) - feature(v) - n(n)",mean:"ở tầng dưới - có - người nhận"},
+    {tv:"downstair (adj) - feature(v) - recipient/rɪˈsɪp.i.ənt/(n)",mean:"ở tầng dưới - có - người nhận"},
     {tv:"pick up the bill - alternate(v)",mean:"thanh toán hóa đơn, trả tiền - thay thế, luân phiên"},
     {tv:"fortune /for.chun/ (n) - devote + time + to V-ing",mean:"1 khoảng tiền lớn - dành time để làm gì"},
     {tv:"The party is over - acquisition(n)",mean:"bữa tiệt kết thúc rồi - việc mua lại, lấy lại"},
@@ -14,7 +14,7 @@ export default [
     {tv:"it's fine as it is - today's special",mean:"cứ để như vậy đi, ko cần thay đổi gì - món ăn/mặt hàng đặc biệt"},
     {tv:"reflect (v) - dispense(v)",mean:"phản chiếu, phản ánh - distribute (v): phân phát, phát sth"},
     {tv:"ruminate (v) - strike(n,v)",mean:"suy ngẫm, think too much for a long period about sth - cuộc bãi công | cuộc ẩu đả"},
-    {tv:"proof (n) - skating(n)",mean:"bằng chứng - trượt = giày trượt (patin)"},
+    {tv:"proof (n) - skating(n) - insight(n)",mean:"bằng chứng - trượt = giày trượt (patin) - sự phân tích/hiểu biết sâu sắc"},
     {tv:"firm /fɝːm/ (n, adj) - abuse/ọp.biu.z/(n,v)",mean:"cty | chắc chắn, vững chắc - (sự)lạm dụng, sỉ nhục, lăng mạ"},
     {tv:"manuscript (n)",mean:"bản thảo (là bản gốc, chưa đc xuất bản, in ấn)"},
     {tv:"manual (adj,n)",mean:"adj: làm = tay, thủ công | n: quyển sách hướng dẫn use"},
@@ -34,10 +34,10 @@ export default [
     {tv:"shirt (n) - ease(v)",mean:"áo sơ mi - giảm (đau, cường độ, ...)"},
     {tv:"measuring tape (n) - mild temperament(n)",mean:"thước dây - nhiệt độ nhẹ, dịu"},
     {tv:"curtain /cơ.tình/(n) - hall (n)",mean:"rèm cửa - hành lang"},
-    {tv:"rough(adj) - roughly(adv)",mean:"gồ ghề (tức là ko phẳng, có chỗ nhô lên) - xấp xỉ"},
+    {tv:"rough/rʌf/(adj) - roughly(adv)",mean:"gồ ghề (tức là ko phẳng, có chỗ nhô lên) - xấp xỉ"},
     {tv:"slim (adj) - nursing home(n)",mean:"mỏng manh, thon gọn - viện dưỡng lão"},
-    {tv:"veterinary (adj) - increasingly important",mean:"thuộc về thú y - ngày càng quan trọng"},
-    {tv:"avenue (n) - deteriorate(v)",mean:"đại lộ - trở nên tồi tệ hơn, suy giảm giá trị/chất lượng"},
+    {tv:"veterinary/ve.tờ.ri.nờ.ri/ (adj) - increasingly important",mean:"thuộc về thú y - ngày càng quan trọng"},
+    {tv:"avenue/ˈæv.ə.nuː/ (n) - deteriorate(v)",mean:"đại lộ - trở nên tồi tệ hơn, suy giảm giá trị/chất lượng"},
     {tv:"adjourn (v)",mean:"delay = postpone = put off = push back = reschedule: trì hoãn, tạm dừng, dời lại"},
     {tv:"parking lot (n) - occasionally - wardrobe(n)",mean:"nơi đậu, để xe - thỉnh thoảng - tủ quần áo"},
     {tv:"have the intended effect - abstract(n)",mean:"có tác dụng như mong đợi - bảng tóm tắt"},
@@ -49,7 +49,7 @@ export default [
     {tv:"plumbing system (n) - contamination(n)", mean:"hệ thống ống nước - =pollution: sự ô nhiễm, nhiễm bẩn"},
     {tv:"intend to - tend to", mean:"dự định, ý định làm gi - có xu hướng làm gì = incline to V"},
     {tv:"pipes underground (n) - leave for A", mean:"đường ống dưới lòng đất - rời khỏi đây để đến A"},
-    {tv:"dig (v) - incense(v) s.o", mean: "đào bới - make s.o angry"},
+    {tv:"dig (v) - incense(v) s.o - transform(v)", mean: "đào bới - make s.o angry - =change(v)"},
     {tv:"hiking boot (n) - cheese(n) - deforest(v)", mean: "giày đi bộ đường dài - phô mai - phá rừng"},
     {tv:"drawer (n) - incite s.o to V",mean:"ngăn kéo - kích động, xúi giục ai làm gì"},
     {tv:"wire(n) - wiring(n)",mean:"dây điện - hệ thống dây điện"},
@@ -63,16 +63,16 @@ export default [
     {tv:"neglect/ignore + to V - S +make sense",mean:"phớt lờ, lãng tránh - S hợp lí | có ý nghĩa"},
     {tv:"tobe adjacent to - sweater(n)/s.que.đờ/",mean:"kế bên, sát cạnh = next to = by = nearby - áo len"},
     {tv:"entrust (v)",mean:"giao phó, ủy/cấp quyền = authorize = delegate"},
-    {tv:"agricultural (adj) - affirmation(n)",mean:"thuộc nông nghiệp - sự khẳng định"},
+    {tv:"agricultural (adj) - affirmation(n) - depict(v)",mean:"thuộc nông nghiệp - sự khẳng định - miêu/mô tả"},
     {tv:"pertinent to N", mean: "liên quan đến/ về = concerning = regarding = related to = associated with"},
     {tv:"indefinite (adj) - shut down(v)", mean:"vô thời hạn | ko rõ ràng - tắt(PC)| ngừng hoạt động"},
     {tv:"Lecture theater (n)", mean:"giảng đường (một phòng học lớn, có sức chứa hàng trăm sinh viên)"},
     {tv:"put the brakes on /brei.sən/ - run for office", mean:"phanh, thắng lại , giảm tốc độ - tham gia tranh cử"},
     {tv:"compromise /ˈkɑːm.prə.maɪz/ (n)", mean:"sự thỏa hiệp (2 bên phải concession để đi đến thỏa thuận)"},
     {tv:"concession /kənˈseʃ.ən/ (n) - literacy rates(n)", mean:"sự nhượng bộ - tỉ lệ biết chữ"},
-    {tv:"leverage /lê.vờ.rịt.ch/ (n) - marvelous(adj)", mean:"lợi thế - = wonderful, fantastic"},
+    {tv:"leverage /lê.vờ.rịt.ch/ (n,v) - marvelous(adj)", mean:"n:lợi thế, v:take advantage of - = wonderful, fantastic"},
     {tv:"engage the audience - touching(adj)", mean:"thu hút sự chú ý của khán giả - cảm động, xúc động"},
-    {tv:"rehearse /rəˈhɝːs/ (v) - humdrum(adj)", mean:"diễn tập , tập dượt - tẻ nhạt, lặp đi lặp lại"},
+    {tv:"rehearse /rəˈhɝːs/ (v) - humdrum(adj)", mean:"diễn tập , tập dượt - nhàm chán, lặp đi lặp lại"},
     {tv:"settle (v) - jump on the opportunity",mean:"= resolve - tận dụng, nắm bắt cơ hội"},
     {tv:"patio (n) - tedious(adj)",mean:"là 1 khoảng không gian ngoài trời có lát nền, không có mái che - = humdrum(adj)"},
     {tv:"aisle (n) - airfare (n)",mean:"lối đi (search gg để hiểu hơn) - giá vé máy bay"},
@@ -138,7 +138,11 @@ export default [
     {tv:"markedly (adv) - fluctuate (v)",mean:"1 cách rõ ràng - giao động, thay đổi đột ngột"},
     {tv:"enclose (v) - roll out",mean:"bao quanh, bao bọc, bao phủ - triển khai | ra mắt"},
     // ... as if, ... : như thể là
+    // As part of N : như/là 1 phần của N
+    // Ordinary , common , regular thì chọn regular ticket price : giá vé thông thường/gốc (là giá trước khi apply discount)
+    // We request your attention to Sth : we yêu cầu sự chú ý của bạn đối với Sth
     // as well luôn đứng cuối câu
+    // on a four-day basic : định kì 4 ngày 1 lần, on a monthly basic: mỗi tháng 1 lần
     // drop = decrease
     // without + N/V-ing
     // so as to/in order to + V-bare : để làm gì
@@ -146,7 +150,8 @@ export default [
     // go on to V : sau đó làm gì (tiếp tục hoặc chuyển sang làm một hành động mới sau khi đã hoàn thành một hành động khác trước đó)
     // survival(adj): sinh tồn
     // condition(n): điều kiện, tình trạng
-    // outlook: triển vọn
+    // outlook: triển vọng
+    // promptness(n): sự nhanh chóng,đúng giờ
     // 1 century = 100 years , 1 decade = 10 years
     // “Once” = as soon as / when (ngay khi, một khi).
     // S + claim to have P3 khi câu ở Quá khứ , còn lại thì claim to V-bare
@@ -179,9 +184,11 @@ export default [
     // as + N/cụm N: như là N
     // as + S + V => as = When/Because
     // give s.o a lift to the nơi : chở s.o tới nơi nào đó
+    // drop s.o off at the nơi : thả s.o xuống nơi nào đó sau khi chở họ
     // have/has no intention of V-ing : ko có ý định làm gì
     // tobe in line with expectations: đi đúng hướng như kì vọng
     // put forward = propose : đưa ra, đề xuất
+    // read the directions before taking the medicine: đọc hướng dẫn trước khi uống thuốc
     // incline/in.clai.ình/ to V = tend to V : có xu hướng làm gì
     // cattle station: trang trại chăn nuôi gia xúc, animal
     // tobe jamming : vật dụng nào đó đang bị kẹt trong ...
@@ -196,13 +203,22 @@ export default [
     // following : giới từ: sau khi - adj: kế tiếp
     // display(v): hiển thị, trưng bày | thể hiện
     // enduring = firm = unwavering = sustainable : lâu dài , bền vững, vững chắc
+    // reach(v): với lấy - đạt được (achieve) - tiếp cận
+    // automated teller mcahines là cây ATM rút tiền
+    // put together: lắp ráp, ghép lại | chuẩn bị
+    // i think what i like most is that S + V: tôi nghĩ điều tôi thích nhất là S + V
+    // Joining Khôi are esteemed developers Hưng, Tuấn : tham gia cùng Khôi là những developer Hưng, Tuấn
+    // go home , thì home là adv nghĩa là về nhà
+    // take home all important documents => lấy all tài liệu quan trọng về nhà
+    // supermarket with in-store restaurants: nhà hàng, quán ăn được mở ở trong siêu thị để kinh doanh
+    // It remains unreached by the pandemic: nó vẫn ko bị ảnh hưởng bởi đại dịch
     {tv:"adopt a similar style - prior(adj)",mean:"làm theo/ bắt trước 1 kiểu tương tự - trước đó"},
     {tv:"mutually (adv) - mobility(n) - lottery(n)",mean:"lẫn nhau, chung - khả năg di chuyển - sổ xố"},
-    {tv:"frank (adj) - lawn(n) /lon/",mean:"thẳng thắng, thành thật, nói thẳng - bãi cỏ"},
+    {tv:"frank (adj) - lawn(n) /lon/ - double decker(n)",mean:"thẳng thắng, thành thật, nói thẳng - bãi cỏ - xe bus 2 tầng"},
     {tv:"designate/de.zịt.nei.tờ/ (v) - shortly(adv)",mean:"bổ nhiệm, chỉ định - trong time ngắn"},
     {tv:"obligation (n) - broom/bruːm/(n)", mean:"nghĩa vụ, bổn phận - cây chổi (để quét)"},
     {tv:"plant (n) - poverty(n)",mean:"thực vật | nhà máy, xí nghiệp - sự nghèo đói"},
-    {tv:"barely(adv) - evenly(adv)",mean:"chỉ vừa đủ, hầu như ko - 1 cách đồng đều"},
+    {tv:"barely(adv) - evenly(adv) - hardly(adv)",mean:"chỉ vừa đủ - 1 cách đồng đều - hầu như ko"},
     {tv:"unusual signals (n) - fountain(n)",mean:"những dấu hiệu bất thường - đài phun nước"},
     {tv:"surpass/sɚˈpæs/(v) - project(v)",mean:"vượt qua, vượt xa, vượt trội hơn - predict"},
     {tv:"rarely - refurbish/ˌriːˈfɝː.bɪʃ/ (v)",mean:"= seldom: hiếm khi, ít khi - = remodel"},
@@ -216,7 +232,12 @@ export default [
     {tv:"embark /ɪmˈbɑːrk/ on(v) - remodel(v)",mean:"bắt đầu (1 journey, ...) - tân trang, sửa sang lại"},
     {tv:"boutique /buːˈtiːk/ - boutique hotel(n)",mean:"cửa hàng nhỏ, cao cấp - khách sạn nhỏ và cao cấp"},
     {tv:"shorten(v) - shortage(n)",mean:"làm ngắn lại| rút ngắn - sự thiếu hụt/thốn"},
-    {tv:"Thanks to so/sth, ...",mean:"Nhờ vào, do so/sth, ..."},
+    {tv:"Thanks to so/sth, ... - oppose(v)",mean:"Nhờ vào, do so/sth, ... - phản đối, ko agree = object to"},
+    {tv:"take off(v) - Dozens of times",mean:"cởi ra >< put on , cất cánh >< land - =many times: rất nhiều lần"},
+    //Postage stamp làm bằng chứng cho việc đã trả phí (cước phí) để gửi một bức thư, bưu thiếp hoặc bưu kiện qua đường bưu điện.
+    {tv:"Postage stamp(n) - leaflet(n)",mean:"con tem - =flyer(n)"},
+    {tv:"stall = kiosk = booth - fair(n)",mean:"gian hàng (ở hội chợ) - hội chợ = trade show"},
+    {tv:"whereas + S + V",mean:"trong khi, trái/ngược lại thì S + V"}
     //đồng âm
     // result - resolve
     // play - place
@@ -227,4 +248,7 @@ export default [
     // gave - gate
     // give - gift
     // few - fill
+    // cold - coat
+    // bought - post - boat
+    // fly - flight
 ]

@@ -1,5 +1,5 @@
 export default [
-    {tv:"Aside/apart from ..., ...",mean:"Ngoài ... ra, ... còn ..."},
+    {tv:"Aside/apart from ..., ...",mean:"Ngoài...ra,...còn... | ngoại trừ = Except for"},
     {tv:"tobe jealous of s.o",mean:"ghen tị với ai"},
     //emergency road/rou.đ/ 
     {tv:"expose to sth",mean:"tiếp xúc với sth"},
@@ -59,7 +59,7 @@ export default [
     {tv:"cables (n)",mean:"dây cáp điện = cords"},
     {tv:"stare (v)",mean:"nhìn chằm chằm (phát âm rất giống stairs)"},
     {tv:"tobe out of stock",mean:"hết hàng"},
-    {tv:"threat (n) - professional reference(n)",mean:"sự/mối đe dọa - là những ng cũ đã từng làm vc với bạn, cầnhọxácnhận năng lực của bạn khi bạn interview"},
+    {tv:"threat (n) - professional reference(n)",mean:"sự/mối đe dọa - là những ng cũđãtừng làm vc vớibạn, cầnhọxácnhận your năng lực khi bạn interview ở 1 chỗ mới"},
     {tv:"tobe facinated(adj) - fascinating(adj)",mean:"bị thu hút - thú vị"},
     {tv:"keep in mind (n) - tuition (n)",mean:"= remember - học phí"},
     {tv:"lengthy /lăn.sì/ (adj)",mean:"dài dòng"},
