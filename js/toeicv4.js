@@ -20,7 +20,7 @@ export default [
     {tv:"manual (adj,n)",mean:"adj: làm = tay, thủ công | n: quyển sách hướng dẫn use"},
     {tv:"punctually /bưn.tùa/ (adv) - grab attention",mean:"đúng giờ = on time - thu hút sự chú ý"},
     {tv:"roster (n) - Severance (n)",mean:"danh sách (các members in a group,...) - tiền trợ cấp sau khi thôi việc"},
-    {tv:"lightweight (adj) - patronize(v)",mean:"nhẹ (về khối lượng) - ủng hộ, lui tới (một cửa hàng...) | nói xấu, disdain"},
+    {tv:"lightweight (adj) - patronize(v) - patron(n)",mean:"nhẹ (về khối lượng) - ủng hộ, lui tới(một cửa hàng...) | nói xấu,disdain - khách hàng quen"},
     {tv:"roadblock (n)",mean:"Rào chắn hoặc chướng ngại vật trên đường (chặn lối đi để thi công ...)"},
     {tv:"give birth (n) - accountability(n)",mean:"sinh, đẻ con - =responsibility(n)"},
     {tv:"handout (n) - belove(v)",mean:"tài liệu phát tay (đc phát đến tay người join event, class,...) - yêu mếm, yêu thương"},
@@ -33,7 +33,7 @@ export default [
     {tv:"scarf (n) - soothing(adj)",mean:"khăn choàng cổ - êm dịu, êm ái"},
     {tv:"shirt (n) - ease(v)",mean:"áo sơ mi - giảm (đau, cường độ, ...)"},
     {tv:"measuring tape (n) - mild temperament(n)",mean:"thước dây - nhiệt độ nhẹ, dịu"},
-    {tv:"curtain /cơ.tình/(n) - hall (n)",mean:"rèm cửa - hành lang"},
+    {tv:"curtain /cơ.tình/(n) - hall = hallway (n)",mean:"rèm cửa - hành lang, lối đi"},
     {tv:"rough/rʌf/(adj) - roughly(adv)",mean:"gồ ghề (tức là ko phẳng, có chỗ nhô lên) - xấp xỉ"},
     {tv:"slim (adj) - nursing home(n)",mean:"mỏng manh, thon gọn - viện dưỡng lão"},
     {tv:"veterinary/ve.tờ.ri.nờ.ri/ (adj) - increasingly important",mean:"thuộc về thú y - ngày càng quan trọng"},
@@ -84,7 +84,7 @@ export default [
     {tv:"down the street - coast - fix up (v)",mean:"ở cuối phố - bờ biển - sửa sang (1 place)"},
     {tv:"orchestra(n) - choir(n)",mean:"1 nhóm gồm nhiều người cầm nhạc cụ diễn - gồm nhiều người chỉ hát"},
     {tv:"agree on/upon - therapist",mean:"thống nhất , đồng ý với - nhà trị liệu(ko dùng thuốc uống để chữa)"},
-    {tv:"contingency plan (n) - principal(n)",mean:"plan dự phòng - hiệu trưởng"},
+    {tv:"contingency plan (n) - principal(n)",mean:"plan dự phòng - hiệu trưởng"}, //principle = rules
     {tv:"courtesy /cơ.đờ.sì/ (n) - courtesy of s.o/sth",mean:"sự lịch sự = politeness - (food) đc chiêu đãi, tài trợ bởi ai/nơi nào"},
     {tv:"customer retention (n) - farewell/pha.weo/",mean:"sự giữ chân khách hàng - chia tay, tạm biệt"},
     {tv:"prompt (n,v,adj)",mean:"adj: nhanh chóng, v: make something happen"},
@@ -212,6 +212,8 @@ export default [
     // take home all important documents => lấy all tài liệu quan trọng về nhà
     // supermarket with in-store restaurants: nhà hàng, quán ăn được mở ở trong siêu thị để kinh doanh
     // It remains unreached by the pandemic: nó vẫn ko bị ảnh hưởng bởi đại dịch
+    // mild = light = gentle : nhẹ nhàng, êm dịu | hiền lành
+    // transparent = apparent = obvious = clear = explicit = specific (rõ ràng, minh bạch) >< implicit = vague = indefinite = unclear (ko rõ ràng, mơ hồ)
     {tv:"adopt a similar style - prior(adj)",mean:"làm theo/ bắt trước 1 kiểu tương tự - trước đó"},
     {tv:"mutually (adv) - mobility(n) - lottery(n)",mean:"lẫn nhau, chung - khả năg di chuyển - sổ xố"},
     {tv:"frank (adj) - lawn(n) /lon/ - double decker(n)",mean:"thẳng thắng, thành thật, nói thẳng - bãi cỏ - xe bus 2 tầng"},
@@ -233,9 +235,9 @@ export default [
     {tv:"boutique /buːˈtiːk/ - boutique hotel(n)",mean:"cửa hàng nhỏ, cao cấp - khách sạn nhỏ và cao cấp"},
     {tv:"shorten(v) - shortage(n)",mean:"làm ngắn lại| rút ngắn - sự thiếu hụt/thốn"},
     {tv:"Thanks to so/sth, ... - oppose(v)",mean:"Nhờ vào, do so/sth, ... - phản đối, ko agree = object to"},
-    {tv:"take off(v) - Dozens of times",mean:"cởi ra >< put on , cất cánh >< land - =many times: rất nhiều lần"},
+    {tv:"take off(v) - Dozens of times - couple dozen(n): 24 (về số lg)",mean:"cởi ra >< put on , cất cánh >< land - =many times: rất nhiều lần"},
     //Postage stamp làm bằng chứng cho việc đã trả phí (cước phí) để gửi một bức thư, bưu thiếp hoặc bưu kiện qua đường bưu điện.
-    {tv:"Postage stamp(n) - leaflet(n)",mean:"con tem - =flyer(n)"},
+    {tv:"Postage stamp(n) - leaflet(n) - direct the play",mean:"con tem - =flyer(n) - chỉ đạo/làm đạo diễn vở kịch"},
     {tv:"stall = kiosk = booth - fair(n)",mean:"gian hàng (ở hội chợ) - hội chợ = trade show"},
     {tv:"whereas + S + V",mean:"trong khi, trái/ngược lại thì S + V"}
     //đồng âm

@@ -42,7 +42,7 @@ export default [
     {tv:"Ski lifts (n)",mean:"cáp treo (but used to đưa skier or snowboarder lên đỉnh núi để trượt)"},
     {tv:"novices (n)",mean:"người mới vào nghề, chưa có kinh nghiệm"},
     {tv:"veteran (n, adj)",mean:"người có kinh nghiệm lâu năm"},
-    {tv:"shuttle service (n)",mean:"dịch vụ xe đưa đón"},
+    {tv:"shuttle/so.đồ/ service (n)",mean:"dịch vụ xe đưa đón"},
     {tv:"rental (n)",mean:"tiền thuê (xe, nhà ...), vd: car rental"},
     {tv:"attest /əˈtest/ (v)", mean:"= chứng nhận, làm chứng, chứng minh = prove"},
     // {tv:"seatbelt (n)", mean:"dây an toàn (của xe hơi, ...)"},
