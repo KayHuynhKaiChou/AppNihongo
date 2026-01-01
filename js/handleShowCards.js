@@ -42,26 +42,64 @@ switch (typeVolcabulary) {
 
 var flashContai = document.getElementById('flashcards-container');
 
+// Tạo ô search
+var searchContainer = document.createElement('div');
+searchContainer.className = 'search-container';
+searchContainer.innerHTML = `
+    <input type="text" id="search-input" placeholder="Tìm kiếm từ vựng..." />
+`;
+flashContai.parentNode.insertBefore(searchContainer, flashContai);
+
 var listPreviousIndex = [];
 
 var prevCardSelect = null;
 
-flashContai.innerHTML = listTuVung.map((index) => {
-    var validIndex = conductRandom();
-    return `
-        <div class="col-md-3 flashcard">
-            <div class="front">${listTuVung[validIndex].tv}</div>
-            <div class="back">${listTuVung[validIndex].mean}</div>
-        </div>
-    `
-}).join('');
+function renderCards(list) {
+    listPreviousIndex = [];
+    flashContai.innerHTML = list.map((item, index) => {
+        return `
+            <div class="col-md-3 flashcard">
+                <div class="front">${item.tv}</div>
+                <div class="back">${item.mean}</div>
+            </div>
+        `
+    }).join('');
 
-// Gán sự kiện
-document.querySelectorAll('.flashcard').forEach(card => {
-    card.addEventListener('click', function () {
-        flipCard(card, prevCardSelect);
-        prevCardSelect = card; // cập nhật sau khi lật
+    // Gán lại sự kiện click cho các card mới
+    prevCardSelect = null;
+    document.querySelectorAll('.flashcard').forEach(card => {
+        card.addEventListener('click', function () {
+            flipCard(card, prevCardSelect);
+            prevCardSelect = card;
+        });
     });
+}
+
+// Render ban đầu với thứ tự ngẫu nhiên
+var randomizedList = listTuVung.map((item, index) => {
+    var validIndex = conductRandom();
+    return listTuVung[validIndex];
+});
+renderCards(randomizedList);
+
+// Xử lý tìm kiếm
+document.getElementById('search-input').addEventListener('input', function(e) {
+    var searchTerm = e.target.value.toLowerCase().trim();
+    if (searchTerm === '') {
+        // Reset về danh sách ngẫu nhiên ban đầu
+        listPreviousIndex = [];
+        var newRandomList = listTuVung.map((item, index) => {
+            var validIndex = conductRandom();
+            return listTuVung[validIndex];
+        });
+        renderCards(newRandomList);
+    } else {
+        // Lọc theo field tv
+        var filteredList = listTuVung.filter(item =>
+            item.tv.toLowerCase().includes(searchTerm)
+        );
+        renderCards(filteredList);
+    }
 });
 
 function conductRandom(){

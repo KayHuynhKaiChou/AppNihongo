@@ -49,6 +49,31 @@ a:active{
     background-color: rgb(133, 133, 247);
 }
 /*====================================*/
+.search-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px 8px;
+}
+
+#search-input {
+    width: 100%;
+    max-width: 400px;
+    padding: 12px 20px;
+    font-size: 18px;
+    border: 2px solid pink;
+    border-radius: 25px;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+#search-input:focus {
+    border-color: palevioletred;
+}
+
+#search-input::placeholder {
+    color: #ccc;
+}
+
 .row{
     padding: 16px 8px;
     margin-right: 0;

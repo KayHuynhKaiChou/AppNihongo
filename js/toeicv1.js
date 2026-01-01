@@ -95,7 +95,7 @@ export default [
     {tv:"bakery /ˈbeɪ.kɚ.ri/(n) - She is reaching for a book on the high shelf",mean:"tiệm bánh - cô ấy đag với lấy 1 book trên kệ cao"},
     {tv:"pastry /ˈpeɪ.stri/(n)",mean:"bánh ngọt"},
     {tv:"rock (n)",mean:"đá , tảng đá | nhạc rock"},
-    {tv:"tobe jogging",mean:"đang chạy bộ"},
+    {tv:"tobe jogging - Burdensome",mean:"đang chạy bộ - nặng nề, khó khăn"},
     {tv:"lie - lying on",mean:"nói dối - nằm trên"},
     {tv:"stitch /s.tít.ch/(v)",mean:"khâu, may (quần áo) = sew (v)"},
     {tv:"the outdoor dining /dai.ning/ area",mean:"khu vực ăn uống ngoài trời"},
