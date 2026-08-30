@@ -99,6 +99,7 @@ a:active{
     background-color: pink;
     background-clip: content-box;
     display: flex;
+    position: relative;
 }
 
 .front, .back {
@@ -115,4 +116,176 @@ a:active{
 }
 .flashcard:hover{
     background-color: palevioletred;
+}
+
+.sentence-trigger {
+    position: absolute;
+    top: 16px;
+    right: calc(var(--bs-gutter-x, 1.5rem) / 2 + 16px);
+    z-index: 2;
+    width: 38px;
+    height: 38px;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    color: #831843;
+    background: rgba(255, 255, 255, 0.78);
+    box-shadow: 0 4px 12px rgba(131, 24, 67, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.18s ease, background-color 0.18s ease;
+}
+
+.sentence-trigger svg {
+    width: 20px;
+    height: 20px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.8;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.sentence-trigger:hover,
+.sentence-trigger:active {
+    color: #fff;
+    background: #9d174d;
+    transform: translateY(-1px);
+}
+
+.sentence-trigger:focus-visible,
+.sentence-retry:focus-visible {
+    outline: 3px solid #4f46e5;
+    outline-offset: 2px;
+}
+
+.sentence-modal-content {
+    border: 0;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 20px 60px rgba(49, 46, 129, 0.22);
+}
+
+.sentence-modal-heading {
+    min-width: 0;
+}
+
+.sentence-modal-eyebrow {
+    display: block;
+    color: #9d174d;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+#sentence-examples-title {
+    max-width: 520px;
+    margin-top: 3px;
+    overflow: hidden;
+    color: #312e81;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.sentence-modal-state {
+    min-height: 240px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    color: #475569;
+    text-align: center;
+}
+
+.sentence-modal-state p {
+    margin: 0;
+}
+
+.sentence-modal-error p {
+    color: #b91c1c;
+}
+
+.sentence-retry {
+    border-radius: 999px;
+    color: #fff;
+    background: #9d174d;
+}
+
+.sentence-examples-list {
+    display: grid;
+    gap: 12px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sentence-example-item {
+    padding: 14px 16px;
+    border: 1px solid #fbcfe8;
+    border-radius: 12px;
+    background: #fff7fb;
+    color: #312e81;
+}
+
+.sentence-example-english {
+    margin: 0;
+    font-size: 17px;
+    font-weight: 650;
+    line-height: 1.5;
+}
+
+.sentence-example-meta {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 7px;
+}
+
+.sentence-word-badge {
+    padding: 3px 9px;
+    border-radius: 999px;
+    color: #831843;
+    background: #fce7f3;
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.sentence-example-translation {
+    flex: 1;
+    min-width: 180px;
+    margin: 0;
+    color: #475569;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+@media (max-width: 576px) {
+    .sentence-trigger {
+        top: 10px;
+        right: calc(var(--bs-gutter-x, 1.5rem) / 2 + 10px);
+        width: 36px;
+        height: 36px;
+    }
+
+    #sentence-examples-modal .modal-dialog {
+        margin: 8px;
+    }
+
+    #sentence-examples-title {
+        max-width: 70vw;
+    }
+
+    #sentence-examples-modal .modal-body {
+        padding: 14px;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .sentence-trigger {
+        transition: none;
+    }
 }

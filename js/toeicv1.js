@@ -100,7 +100,7 @@ export default [
     {tv:"stitch /s.tít.ch/(v)",mean:"khâu, may (quần áo) = sew (v)"},
     {tv:"the outdoor dining /dai.ning/ area",mean:"khu vực ăn uống ngoài trời"},
     {tv:"The seated /ˈsiː.t̬ɪd/ people", mean:"những người đang ngồi"},
-    {tv:"change (n)",mean: "tiền thối"},
+    {tv:"change (n) - hinder (v)",mean: "tiền thối - cản trở/ngăn cản = prevent"},
     {tv:"browse through (v)",mean:"xem lướt qua"},
     {tv:"escalator /ˈes.kə.leɪ.t̬ɚ/(n)",mean:"thang cuốn"},
     {tv:"toast (n)",mean:"bánh mì nướng"},
